@@ -270,6 +270,9 @@ You use the `environment` system property to determine which environment to run 
 $ mvn clean verify -Denvironment=staging
 ```
 
+# How to see test reports
+You can see test reports according to this path after running test scenarios: target/site/index.html/Open in/Browser/... or click link full report generated in terminal to see test reports locally 
+
 See [**this article**](https://johnfergusonsmart.com/environment-specific-configuration-in-serenity-bdd/) for more details about this feature.
 
 ## Want to learn more?
